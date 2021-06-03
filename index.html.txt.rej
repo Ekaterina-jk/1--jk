@@ -1,0 +1,14 @@
+diff a/index.html.txt b/index.html.txt	(rejected hunks)
+@@ -2,9 +2,9 @@
+ <html>
+ <head>
+ <meta charset="utf-8">
+-<title>����1</title>
++<title>��� ������ ����</title>
+ </head>
+ <body>
+-<p>����1</p>
++<p>��� ������ ����</p>
+ </body>
+ </html>
+\ No newline at end of file
